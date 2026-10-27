@@ -35,7 +35,7 @@ Know more about [me](https://www.unige.ch/ihr/linstitut/lequipe/collaborateur-tr
 | [CORSAIR-FR-PRINT-16-ATR](https://github.com/CORSAIR-SNF/CORSAIR-FR-PRINT-16-ATR) | HTR data from 16th Century French Prints|
 and more to come !
 
-## 🏛️ Funding
+## Funding
 
 This project is funded by the **Swiss National Science Foundation (SNSF)**, grant no. [222557](https://data.snf.ch/grants/grant/222557).
 
