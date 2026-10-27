@@ -31,7 +31,7 @@ Know more about [me](https://www.unige.ch/ihr/linstitut/lequipe/collaborateur-tr
 
 | Repository | Description |
 |------------|-------------|
-| [CORSAIR-FR-PRINT-16-ATR](https://github.com/CORSAIR-SNF/CORSAIR-FR-PRINT-16-ATR) | HTR data from 16th Century French Prints|
+| [CORSAIR-FR-PRINT-16-ATR](https://github.com/CORSAIR-SNF/CORSAIR-FR-PRINT-16-ATR) | aTR data from 16th Century French Prints|
 and more to come !
 
 ## Funding
@@ -40,7 +40,7 @@ This project is funded by the **Swiss National Science Foundation (SNSF)**, gran
 
 ## Collaboration
 
-This project is in collaboration with [HumanTech Institute](https://www.heia-fr.ch/en/applied-research/institutes/humantech/) in Fribourg (Switzerland),
+This project is in collaboration with [HumanTech Institute](https://www.heia-fr.ch/en/applied-research/institutes/humantech/) in Fribourg (Switzerland). A special thanks to Prof. [Simon Gabay](https://www.unige.ch/lettres/humanites-numeriques/equipe/collaborateurs/simon-gabay) for technical and scientific support.
 
 
 ## Citing this work
