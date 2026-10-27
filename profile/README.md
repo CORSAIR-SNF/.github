@@ -14,6 +14,7 @@ Doctoral research of Melinda Fleury
 
 [Website](https://data.snf.ch/grants/grant/222557) · [Publications](https://archive-ouverte.unige.ch/unige:196362) · [Contact](mailto:melinda.fleury@unige.ch)
 
+légende : Château de La Popelinière, carte postale, Librairie Poupin, Médiathèque du Parc Naturel Régional du Marais Poitevin
 </div>
 
 ---
