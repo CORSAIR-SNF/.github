@@ -3,11 +3,14 @@
 <div align="center">
   <img src="assets/cover.jpg" alt="Bannière du projet CORSAIR" width="100%">
 </div>
+
 # CORSAIR
 
 **Tracing intertextual sources and shedding light on the processes of veridiction in the historical discourse of Lancelot Voisin de La Popelinière (1541-1608)**
 
 *Developing a referential analysis tool based on word embeddings*
+
+Doctoral research of Melinda Fleury
 
 [Website](https://data.snf.ch/grants/grant/222557) · [Publications](https://archive-ouverte.unige.ch/unige:196362) · [Contact](mailto:melinda.fleury@unige.ch)
 
