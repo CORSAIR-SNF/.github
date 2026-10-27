@@ -1,5 +1,8 @@
 <div align="center">
 
+<div align="center">
+  <img src="assets/cover.jpg" alt="Bannière du projet CORSAIR" width="100%">
+</div>
 # CORSAIR
 
 **Tracing intertextual sources and shedding light on the processes of veridiction in the historical discourse of Lancelot Voisin de La Popelinière (1541-1608)**
