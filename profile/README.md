@@ -55,7 +55,7 @@ This project is in collaboration with [HumanTech Institute](https://www.heia-fr.
 
 > Please cite as : 
 
----
+CORSAIR Project, Mélinda Fleury, University of Geneva
 
 <div align="center">
 
