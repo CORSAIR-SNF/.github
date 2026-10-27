@@ -19,6 +19,8 @@
 
 To this end, we are developing a **digital humanities tool** based on **word embeddings**. It automates the search for **semantic correspondences** between two texts, and thereby sheds light on this singular author's politics of borrowing in the development of the discipline of history. My research is supervised by Prof. [Paul-Alexis Mellet](https://www.unige.ch/lettres/istge/enseignants-chercheurs/mellet) (University of Geneva) and Prof. [Andrea Frisch](https://english.umd.edu/directory/andrea-frisch) (University of Maryland).
 
+Know more about [me](https://www.unige.ch/ihr/linstitut/lequipe/collaborateur-trices-ihr/melinda-fleury)
+
 ## Research fields
 
 - **History and historiography**: historical narrative in the age of the Wars of Religion
@@ -30,7 +32,7 @@ To this end, we are developing a **digital humanities tool** based on **word emb
 
 | Repository | Description |
 |------------|-------------|
-| [repo-name](https://github.com/ORG/repo-name) | Referential analysis tool (semantic correspondences) |
+| [CORSAIR-FR-PRINT-16-ATR](https://github.com/CORSAIR-SNF/CORSAIR-FR-PRINT-16-ATR) | HTR data from 16th Century French Prints|
 and more to come !
 
 ## 🏛️ Funding
