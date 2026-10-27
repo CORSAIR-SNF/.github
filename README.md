@@ -17,7 +17,7 @@
 
 **CORSAIR** is a PhD project (SNF no 222557) devoted to the writings of **Lancelot Voisin de La Popelinière** (1541-1608), a French Reformed historian. It aims to understand how his historiographical narrative is constructed by studying the **intertextual links** he maintained with his Protestant and Catholic contemporaries: plagiarism, borrowing, rewriting, allusions.
 
-To this end, we are developing a **digital humanities tool** based on **word embeddings**. It automates the search for **semantic correspondences** between two texts, and thereby sheds light on this singular author's politics of borrowing in the development of the discipline of history. My research is supervised by Prof. (Paul-Alexis Mellet)[https://www.unige.ch/lettres/istge/enseignants-chercheurs/mellet] (University of Geneva) and Prof. (Andrea Frisch) [https://english.umd.edu/directory/andrea-frisch](University of Maryland).
+To this end, we are developing a **digital humanities tool** based on **word embeddings**. It automates the search for **semantic correspondences** between two texts, and thereby sheds light on this singular author's politics of borrowing in the development of the discipline of history. My research is supervised by Prof. [Paul-Alexis Mellet](https://www.unige.ch/lettres/istge/enseignants-chercheurs/mellet) (University of Geneva) and Prof. [Andrea Frisch](https://english.umd.edu/directory/andrea-frisch) (University of Maryland).
 
 ## Research fields
 
